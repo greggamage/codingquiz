@@ -1,0 +1,28 @@
+.mainText{
+    color: rgb(0, 143, 143);
+    text-align: center;
+    background-color: rgb(1, 2, 48);
+    font-size: x-large;
+}
+
+.wholeBody{
+    background-color: rgb(27, 101, 101);
+}
+
+.titleText{
+    color: aliceblue;
+text-align: center;
+}
+
+#question{
+    color: rgb(0, 143, 143);
+}
+#response{
+    text-decoration: dotted;
+}
+
+#startBtn{
+    background-color: pink;
+    font-size: x-large;
+    color: rgb(0, 143, 143);
+}
